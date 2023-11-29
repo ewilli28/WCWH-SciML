@@ -1,4 +1,4 @@
-Participant ID,Water System,"Source (1 = SW, 2 = GW, Mix = 3)","Disinfectant (1 = Mono, 2 = Chlorine)",Date,Time,"Sample Type (FF = 1, AF = 2, Out = 3)",Monochloramine,Chlorine,Ammonia,Nitrate,Nitrite,Lead,Turbidity,pH,Temperature,Conductivity,ORP,TOC,HPC,Filter
+Participant ID,Water System,Source,Disinfectant,Date,Time,Sample Type,Monochloramine,Chlorine,Ammonia,Nitrate,Nitrite,Lead,Turbidity,pH,Temperature,Conductivity,ORP,TOC,HPC,Filter
 2,Manville,3,1,9-May,N/A,1,0.01,N/A,0.01,0.262,N/A,N/A,0.84,8.43,N/A,N/A,N/A,N/A,N/A,2
 2,Manville,3,1,9-May,N/A,2,0.03,N/A,0.02,0.457,N/A,N/A,0.12,8.38,N/A,N/A,N/A,N/A,N/A,2
 3,Austin Water,1,1,9-May,N/A,1,0.21,N/A,0.19,0.194,N/A,N/A,0.19,9.51,N/A,N/A,N/A,N/A,N/A,1
